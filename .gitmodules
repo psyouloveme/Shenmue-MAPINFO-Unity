@@ -1,0 +1,3 @@
+[submodule "Assets/mapinforeader"]
+	path = Assets/mapinforeader
+	url = git@github.com:psyouloveme/Shenmue-MAPINFO-Reader.git
