@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79b30fb443b3964e9388d81cb8b5dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asset: {fileID: 4900000, guid: 641be3e17cd6d974db2bb8d415e9ce2f, type: 3}
+  asset: {fileID: 4900000, guid: 72c06199f06420d4aa492823bb201a41, type: 3}
 --- !u!4 &484490047
 Transform:
   m_ObjectHideFlags: 0
@@ -194,7 +194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79b30fb443b3964e9388d81cb8b5dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asset: {fileID: 4900000, guid: 81f2db905f540f140a65eee32ab100db, type: 3}
+  asset: {fileID: 4900000, guid: 84dd013fcce87f247903d5a9ba19a2f3, type: 3}
 --- !u!4 &690882279
 Transform:
   m_ObjectHideFlags: 0
@@ -238,7 +238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79b30fb443b3964e9388d81cb8b5dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asset: {fileID: 4900000, guid: de6338a1bdc1e3a4d903303572db11a7, type: 3}
+  asset: {fileID: 4900000, guid: f39bb1819a076664c8a6680032e47bac, type: 3}
 --- !u!4 &882482301
 Transform:
   m_ObjectHideFlags: 0
@@ -378,7 +378,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79b30fb443b3964e9388d81cb8b5dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asset: {fileID: 4900000, guid: 1b9106bfd2dd45840a04a3d61305886d, type: 3}
+  asset: {fileID: 4900000, guid: 6bf1b0828eb8de341aa4874a1502e9b5, type: 3}
 --- !u!4 &987202651
 Transform:
   m_ObjectHideFlags: 0
@@ -422,7 +422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79b30fb443b3964e9388d81cb8b5dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asset: {fileID: 4900000, guid: 50aa05572ef6e8241adde553e4357a16, type: 3}
+  asset: {fileID: 4900000, guid: 2fc4c61e96d7b8d4785757cbee079344, type: 3}
 --- !u!4 &1239135670
 Transform:
   m_ObjectHideFlags: 0
@@ -466,7 +466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79b30fb443b3964e9388d81cb8b5dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asset: {fileID: 4900000, guid: 83f78723bda6e6f4181b618da150387e, type: 3}
+  asset: {fileID: 4900000, guid: 05cf9ca36b06c714f957a9fa74b65fde, type: 3}
 --- !u!4 &1243349611
 Transform:
   m_ObjectHideFlags: 0
@@ -510,7 +510,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79b30fb443b3964e9388d81cb8b5dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asset: {fileID: 4900000, guid: d759103e7b77d4347a5b26c6aac2505f, type: 3}
+  asset: {fileID: 4900000, guid: 5c3988789add7f349a974b1ddcbfbbd2, type: 3}
 --- !u!4 &1283050218
 Transform:
   m_ObjectHideFlags: 0
@@ -554,7 +554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79b30fb443b3964e9388d81cb8b5dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asset: {fileID: 4900000, guid: d86f46f5667a1d64a9f25991d31f74a6, type: 3}
+  asset: {fileID: 4900000, guid: 057c28863ff3d4141a2c2d137960fd21, type: 3}
 --- !u!4 &1707671769
 Transform:
   m_ObjectHideFlags: 0
